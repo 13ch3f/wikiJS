@@ -1,6 +1,6 @@
 name: Default
-author: requarks.io
-site: https://wiki.requarks.io/
+author: anderis
+site: https://anderis.security/
 version: 1.0.0
 requirements:
   minimum: '>= 2.0.0'

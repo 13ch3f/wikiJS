@@ -57,7 +57,7 @@ body {
 // LOGIN
 
 .login {
-  background-color: mc('grey', '900');
+  background-color: mc('blue', '900');
   height: 100vh;
   display: flex;
   align-items: center;
@@ -177,7 +177,7 @@ body {
 // PAGE
 
 .header {
-  background-color: #000;
+  background-color: #da1b1b;
   color: #FFF;
   height: 64px;
   padding: 0 16px;
@@ -233,7 +233,7 @@ body {
 
 .sidebar {
   width: 256px;
-  background-color: mc('blue', '700');
+  background-color: mc('green', '700');
   color: #FFF;
   padding: 8px 0;
   align-self: stretch;

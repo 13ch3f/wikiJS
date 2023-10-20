@@ -4,8 +4,8 @@ db:
   type: $(DB_TYPE)
   host: '$(DB_HOST)'
   port: $(DB_PORT)
-  user: '$(DB_USER)'
-  pass: '$(DB_PASS)'
+  user: ${POSTGRES_USER}
+  pass: ${POSTGRES_PASSWORD}
   db: $(DB_NAME)
   storage: $(DB_FILEPATH)
   ssl: $(DB_SSL)
